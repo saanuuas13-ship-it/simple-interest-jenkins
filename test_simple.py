@@ -1,4 +1,4 @@
-from simple_interest import simple_interest
+from simple import simple_interest
 
 
 def test_normal():
